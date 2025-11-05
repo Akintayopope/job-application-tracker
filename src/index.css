@@ -1,5 +1,5 @@
 @import "tailwindcss";
 
-/* body {
+body {
     @apply bg-blue-50 min-h-screen;
-} */
+}
